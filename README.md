@@ -60,6 +60,7 @@ RegisterNumber: 212223110017
 
 **Output/TIMING Waveform**
 ![WhatsApp Image 2024-03-22 at 07 27 18_1454529f](https://github.com/Jothilakshmi12/HALF_ADDER_SUBTRACTOR/assets/138849182/d29f29a2-9919-406c-a567-adb7a8233c2f)
+![WhatsApp Image 2024-03-22 at 07 27 18_6c7df441](https://github.com/Jothilakshmi12/HALF_ADDER_SUBTRACTOR/assets/138849182/2328a7c5-09f7-437e-8926-26e961b5ad96)
 
 **Result:**
 Successfully executed.
